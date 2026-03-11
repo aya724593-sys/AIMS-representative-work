@@ -1,0 +1,6 @@
+! 1) Settings related to the physics processes generated.
+Beams:idA                      = 1000791970
+Beams:idB                      = 1000791970
+Beams:eCM                      = 200.0         ! CM energy   
+HeavyIon:mode                  = 2
+Main:numberOfEvents            = 10000
